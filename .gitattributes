@@ -1,1 +1,2 @@
-*.сpp linguist-language=ObjectiveC
+* linguist-vendored
+*.сpp linguist-vendored=false
