@@ -1,2 +1,2 @@
 * linguist-vendored
-*.gcc linguist-vendored=false
+*.c linguist-vendored=false
